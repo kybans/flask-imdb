@@ -1,3 +1,0 @@
-flask-mysqldb
-flask-mysql
-sudo apt-get install libmysqlclient-dev
